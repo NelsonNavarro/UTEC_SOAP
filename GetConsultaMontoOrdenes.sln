@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetConsultaMontoOrdenes", "GetConsultaMontoOrdenes\GetConsultaMontoOrdenes.csproj", "{F907AA3C-F2A9-4341-BE47-5B00EB4D1C94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F907AA3C-F2A9-4341-BE47-5B00EB4D1C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F907AA3C-F2A9-4341-BE47-5B00EB4D1C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F907AA3C-F2A9-4341-BE47-5B00EB4D1C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F907AA3C-F2A9-4341-BE47-5B00EB4D1C94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F563AA1-E9A8-4B96-AB23-4D38A9CF8BA8}
+	EndGlobalSection
+EndGlobal
